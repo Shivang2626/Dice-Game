@@ -1,4 +1,4 @@
-
+alert("Instructions - 1. The game has 2 players, playing in round , in each turn players roles a dice as many times as he wishes. Each result get added to his Round score , But If a player rools a 1, all his Round score is lost, After that there is next player's turn , The PLayer can choose to 'HOLD' ,which means his round score gets added to his global score. After that its a next player's turn. The Player who reaches 100 global score will be the winner. ");
 var diceNo,diceDom,activeplayer,current,rollscore,total1,total2,winner,game; 
 
 init();
