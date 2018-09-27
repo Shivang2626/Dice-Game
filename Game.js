@@ -86,7 +86,7 @@ function fish()
 function winner()
 {
     
-    if(total1 >= 10 || total2 >=10)
+    if(total1 >= 100 || total2 >=100)
     {
         document.querySelector("#winner").classList.add("win"+activeplayer);
        document.getElementById("winner").style.display="block";
