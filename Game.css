@@ -126,3 +126,11 @@
     display: none;
     left:56%;
 }
+
+@media (max-width: 576px)
+{
+    .common
+    {
+         left:90%;
+    }
+}
